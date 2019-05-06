@@ -13,3 +13,4 @@ C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Products\obj\Re
 C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Products\obj\Release\netcoreapp2.2\Pcf.Dotnet.Core.Push.Api.Routing.Products.RazorTargetAssemblyInfo.cache
 C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Products\obj\Release\netcoreapp2.2\Pcf.Dotnet.Core.Push.Api.Routing.Products.dll
 C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Products\obj\Release\netcoreapp2.2\Pcf.Dotnet.Core.Push.Api.Routing.Products.pdb
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Products\bin\Release\netcoreapp2.2\cf-push.bat

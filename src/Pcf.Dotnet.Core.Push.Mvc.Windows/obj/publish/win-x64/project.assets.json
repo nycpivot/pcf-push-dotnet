@@ -16805,11 +16805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\pcf-dotnet-intro\\src\\Pcf.Dotnet.Core.Push.Mvc.Windows\\Pcf.Dotnet.Core.Push.Mvc.Windows.csproj",
+      "projectUniqueName": "C:\\Projects\\pcf-dotnet-push\\src\\Pcf.Dotnet.Core.Push.Mvc.Windows\\Pcf.Dotnet.Core.Push.Mvc.Windows.csproj",
       "projectName": "Pcf.Dotnet.Core.Push.Mvc.Windows",
-      "projectPath": "C:\\Projects\\pcf-dotnet-intro\\src\\Pcf.Dotnet.Core.Push.Mvc.Windows\\Pcf.Dotnet.Core.Push.Mvc.Windows.csproj",
+      "projectPath": "C:\\Projects\\pcf-dotnet-push\\src\\Pcf.Dotnet.Core.Push.Mvc.Windows\\Pcf.Dotnet.Core.Push.Mvc.Windows.csproj",
       "packagesPath": "C:\\Users\\devel\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\pcf-dotnet-intro\\src\\Pcf.Dotnet.Core.Push.Mvc.Windows\\obj\\publish\\win-x64\\",
+      "outputPath": "C:\\Projects\\pcf-dotnet-push\\src\\Pcf.Dotnet.Core.Push.Mvc.Windows\\obj\\publish\\win-x64\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
