@@ -1,0 +1,12 @@
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Task\bin\Debug\netcoreapp2.0\manifest.yml
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Task\bin\Debug\netcoreapp2.0\Pcf.Dotnet.Core.Push.Task.deps.json
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Task\bin\Debug\netcoreapp2.0\Pcf.Dotnet.Core.Push.Task.runtimeconfig.json
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Task\bin\Debug\netcoreapp2.0\Pcf.Dotnet.Core.Push.Task.runtimeconfig.dev.json
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Task\bin\Debug\netcoreapp2.0\Pcf.Dotnet.Core.Push.Task.dll
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Task\bin\Debug\netcoreapp2.0\Pcf.Dotnet.Core.Push.Task.pdb
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Task\obj\Debug\netcoreapp2.0\Pcf.Dotnet.Core.Push.Task.csprojAssemblyReference.cache
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Task\obj\Debug\netcoreapp2.0\Pcf.Dotnet.Core.Push.Task.csproj.CoreCompileInputs.cache
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Task\obj\Debug\netcoreapp2.0\Pcf.Dotnet.Core.Push.Task.AssemblyInfoInputs.cache
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Task\obj\Debug\netcoreapp2.0\Pcf.Dotnet.Core.Push.Task.AssemblyInfo.cs
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Task\obj\Debug\netcoreapp2.0\Pcf.Dotnet.Core.Push.Task.dll
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Task\obj\Debug\netcoreapp2.0\Pcf.Dotnet.Core.Push.Task.pdb

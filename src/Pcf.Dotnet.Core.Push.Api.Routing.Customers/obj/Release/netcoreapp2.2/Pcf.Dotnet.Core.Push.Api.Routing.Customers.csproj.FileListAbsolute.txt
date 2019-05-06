@@ -1,0 +1,15 @@
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Customers\bin\Release\netcoreapp2.2\manifest.yml
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Customers\bin\Release\netcoreapp2.2\Pcf.Dotnet.Core.Push.Api.Routing.Customers.deps.json
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Customers\bin\Release\netcoreapp2.2\Pcf.Dotnet.Core.Push.Api.Routing.Customers.runtimeconfig.json
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Customers\bin\Release\netcoreapp2.2\Pcf.Dotnet.Core.Push.Api.Routing.Customers.runtimeconfig.dev.json
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Customers\bin\Release\netcoreapp2.2\Pcf.Dotnet.Core.Push.Api.Routing.Customers.dll
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Customers\bin\Release\netcoreapp2.2\Pcf.Dotnet.Core.Push.Api.Routing.Customers.pdb
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Customers\obj\Release\netcoreapp2.2\Pcf.Dotnet.Core.Push.Api.Routing.Customers.csprojAssemblyReference.cache
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Customers\obj\Release\netcoreapp2.2\Pcf.Dotnet.Core.Push.Api.Routing.Customers.csproj.CoreCompileInputs.cache
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Customers\obj\Release\netcoreapp2.2\Pcf.Dotnet.Core.Push.Api.Routing.Customers.RazorAssemblyInfo.cache
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Customers\obj\Release\netcoreapp2.2\Pcf.Dotnet.Core.Push.Api.Routing.Customers.RazorAssemblyInfo.cs
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Customers\obj\Release\netcoreapp2.2\Pcf.Dotnet.Core.Push.Api.Routing.Customers.AssemblyInfoInputs.cache
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Customers\obj\Release\netcoreapp2.2\Pcf.Dotnet.Core.Push.Api.Routing.Customers.AssemblyInfo.cs
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Customers\obj\Release\netcoreapp2.2\Pcf.Dotnet.Core.Push.Api.Routing.Customers.RazorTargetAssemblyInfo.cache
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Customers\obj\Release\netcoreapp2.2\Pcf.Dotnet.Core.Push.Api.Routing.Customers.dll
+C:\Projects\pcf-dotnet-push\src\Pcf.Dotnet.Core.Push.Api.Routing.Customers\obj\Release\netcoreapp2.2\Pcf.Dotnet.Core.Push.Api.Routing.Customers.pdb

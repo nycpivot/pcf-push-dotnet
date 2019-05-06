@@ -1,0 +1,4 @@
+﻿hub.docker.com
+
+mjames@pivotal.io
+nycpivot
