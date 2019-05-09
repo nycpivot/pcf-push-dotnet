@@ -1,6 +1,0 @@
-﻿---
-applications:
--   name: pcf-dotnet-core-push-task
-    no-route: true
-    health-check-type: process
-    memory: 256M

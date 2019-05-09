@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pcf.Dotnet.Framework.Push.M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pcf.Dotnet.Framework.Push.WebForms.Windows", "Pcf.Dotnet.Framework.Push.WebForms.Windows\Pcf.Dotnet.Framework.Push.WebForms.Windows.csproj", "{D0107972-F6F7-4B11-A0BB-687A9F25828A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pcf.Dotnet.Core.Push.Mvvm.Docker.Windows", "Pcf.Dotnet.Core.Push.Mvvm.Docker.Windows\Pcf.Dotnet.Core.Push.Mvvm.Docker.Windows.csproj", "{0BE6AB10-9BE1-4297-8D9B-8BDC6B96BB66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pcf.Dotnet.Core.Push.Mvvm.Docker.Linux", "Pcf.Dotnet.Core.Push.Mvvm.Docker.Linux\Pcf.Dotnet.Core.Push.Mvvm.Docker.Linux.csproj", "{C36228EF-5C02-4274-8718-331AD64AB753}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{D0107972-F6F7-4B11-A0BB-687A9F25828A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0107972-F6F7-4B11-A0BB-687A9F25828A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0107972-F6F7-4B11-A0BB-687A9F25828A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BE6AB10-9BE1-4297-8D9B-8BDC6B96BB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE6AB10-9BE1-4297-8D9B-8BDC6B96BB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE6AB10-9BE1-4297-8D9B-8BDC6B96BB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE6AB10-9BE1-4297-8D9B-8BDC6B96BB66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C36228EF-5C02-4274-8718-331AD64AB753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36228EF-5C02-4274-8718-331AD64AB753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36228EF-5C02-4274-8718-331AD64AB753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36228EF-5C02-4274-8718-331AD64AB753}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
