@@ -1,6 +1,6 @@
 ﻿---
 applications:
--   name: pcf-dotnet-core-push-empty
+-   name: pcf-push-dotnet-core-empty
     stack: cflinuxfs3
     buildpack: dotnet_core_buildpack
     disk_quota: 512M

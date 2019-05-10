@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Pcf.Dotnet.Core.Push.Empty
+namespace Pcf.Push.Dotnet.Core.Empty
 {
     public class Startup
     {

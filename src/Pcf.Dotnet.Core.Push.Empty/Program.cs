@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace Pcf.Dotnet.Core.Push.Empty
+namespace Pcf.Push.Dotnet.Core.Empty
 {
     public class Program
     {
