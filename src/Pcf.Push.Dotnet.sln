@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Dotnet.Core.Push.Api.Routing.Customers", "Pcf.Dotnet.Core.Push.Api.Routing.Customers\Pcf.Dotnet.Core.Push.Api.Routing.Customers.csproj", "{ADD91E8F-70ED-4FDC-AF49-1DAB93C26BEB}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Dotnet.Core.Push.Api.Routing.Products", "Pcf.Dotnet.Core.Push.Api.Routing.Products\Pcf.Dotnet.Core.Push.Api.Routing.Products.csproj", "{00788B46-1825-4CF1-9CEA-3DF2CA2F51F0}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Dotnet.Core.Push.Task", "Pcf.Dotnet.Core.Push.Task\Pcf.Dotnet.Core.Push.Task.csproj", "{3C2964B4-7FA6-4031-9A25-A5E6E6AC4FA6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pcf.Dotnet.Framework.Push.Mvc.Windows", "Pcf.Dotnet.Framework.Push.Mvc.Windows\Pcf.Dotnet.Framework.Push.Mvc.Windows.csproj", "{B7FC1986-BD49-40C9-9290-967860A6C0E0}"
@@ -23,20 +19,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Push.Dotnet.Core.Mvc.Wi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Push.Dotnet.Core.Empty", "Pcf.Push.Dotnet.Core.Empty\Pcf.Push.Dotnet.Core.Empty.csproj", "{1BD163B0-D2AA-4A59-9A57-AD06CF736E12}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Push.Dotnet.Core.Api.Routing.Customers", "Pcf.Push.Dotnet.Core.Api.Routing.Customers\Pcf.Push.Dotnet.Core.Api.Routing.Customers.csproj", "{720F9EF8-8E66-43FB-81D6-A4573D714CD9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Push.Dotnet.Core.Api.Routing.Products", "Pcf.Push.Dotnet.Core.Api.Routing.Products\Pcf.Push.Dotnet.Core.Api.Routing.Products.csproj", "{EE2951BF-1E2F-473C-82DE-89A17D0092F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ADD91E8F-70ED-4FDC-AF49-1DAB93C26BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ADD91E8F-70ED-4FDC-AF49-1DAB93C26BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ADD91E8F-70ED-4FDC-AF49-1DAB93C26BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ADD91E8F-70ED-4FDC-AF49-1DAB93C26BEB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{00788B46-1825-4CF1-9CEA-3DF2CA2F51F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{00788B46-1825-4CF1-9CEA-3DF2CA2F51F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{00788B46-1825-4CF1-9CEA-3DF2CA2F51F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{00788B46-1825-4CF1-9CEA-3DF2CA2F51F0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3C2964B4-7FA6-4031-9A25-A5E6E6AC4FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3C2964B4-7FA6-4031-9A25-A5E6E6AC4FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C2964B4-7FA6-4031-9A25-A5E6E6AC4FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -69,6 +61,14 @@ Global
 		{1BD163B0-D2AA-4A59-9A57-AD06CF736E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BD163B0-D2AA-4A59-9A57-AD06CF736E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BD163B0-D2AA-4A59-9A57-AD06CF736E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{720F9EF8-8E66-43FB-81D6-A4573D714CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720F9EF8-8E66-43FB-81D6-A4573D714CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720F9EF8-8E66-43FB-81D6-A4573D714CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720F9EF8-8E66-43FB-81D6-A4573D714CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE2951BF-1E2F-473C-82DE-89A17D0092F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2951BF-1E2F-473C-82DE-89A17D0092F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2951BF-1E2F-473C-82DE-89A17D0092F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2951BF-1E2F-473C-82DE-89A17D0092F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
