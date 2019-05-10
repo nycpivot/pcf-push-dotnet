@@ -3,14 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Dotnet.Core.Push.Mvc.Linux", "Pcf.Dotnet.Core.Push.Mvc.Linux\Pcf.Dotnet.Core.Push.Mvc.Linux.csproj", "{642DDC72-8084-415D-8878-F496F22F051C}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Dotnet.Core.Push.Mvc.Windows", "Pcf.Dotnet.Core.Push.Mvc.Windows\Pcf.Dotnet.Core.Push.Mvc.Windows.csproj", "{D6B0EA61-D215-40E3-9E70-9F95E485B62D}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Push.Dotnet.Core.Empty", "Pcf.Dotnet.Core.Push.Empty\Pcf.Push.Dotnet.Core.Empty.csproj", "{8719E373-2002-4D14-A231-8258CA825BB4}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Dotnet.Core.Push.Mvc.Docker.Linux", "Pcf.Dotnet.Core.Push.Mvc.Docker.Linux\Pcf.Dotnet.Core.Push.Mvc.Docker.Linux.csproj", "{67EBDB4D-154E-43A4-8210-8CC45D5128A3}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Dotnet.Core.Push.Api.Routing.Customers", "Pcf.Dotnet.Core.Push.Api.Routing.Customers\Pcf.Dotnet.Core.Push.Api.Routing.Customers.csproj", "{ADD91E8F-70ED-4FDC-AF49-1DAB93C26BEB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Dotnet.Core.Push.Api.Routing.Products", "Pcf.Dotnet.Core.Push.Api.Routing.Products\Pcf.Dotnet.Core.Push.Api.Routing.Products.csproj", "{00788B46-1825-4CF1-9CEA-3DF2CA2F51F0}"
@@ -25,28 +17,18 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Dotnet.Core.Push.Mvvm.D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Dotnet.Core.Push.Mvvm.Docker.Windows", "Pcf.Dotnet.Core.Push.Mvvm.Docker.Windows\Pcf.Dotnet.Core.Push.Mvvm.Docker.Windows\Pcf.Dotnet.Core.Push.Mvvm.Docker.Windows.csproj", "{8BBBFBB8-49E8-43CF-AE56-304C030FCB95}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Push.Dotnet.Core.Mvc.Linux", "Pcf.Push.Dotnet.Core.Mvc.Linux\Pcf.Push.Dotnet.Core.Mvc.Linux.csproj", "{5A78063B-C0C4-4FAD-BC68-EA8FF3F57E46}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Push.Dotnet.Core.Mvc.Windows", "Pcf.Push.Dotnet.Core.Mvc.Windows\Pcf.Push.Dotnet.Core.Mvc.Windows.csproj", "{9A5E2DE1-E260-4C6E-B205-E608C3B5B6F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Push.Dotnet.Core.Empty", "Pcf.Push.Dotnet.Core.Empty\Pcf.Push.Dotnet.Core.Empty.csproj", "{1BD163B0-D2AA-4A59-9A57-AD06CF736E12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{642DDC72-8084-415D-8878-F496F22F051C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{642DDC72-8084-415D-8878-F496F22F051C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{642DDC72-8084-415D-8878-F496F22F051C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{642DDC72-8084-415D-8878-F496F22F051C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D6B0EA61-D215-40E3-9E70-9F95E485B62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D6B0EA61-D215-40E3-9E70-9F95E485B62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D6B0EA61-D215-40E3-9E70-9F95E485B62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D6B0EA61-D215-40E3-9E70-9F95E485B62D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8719E373-2002-4D14-A231-8258CA825BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8719E373-2002-4D14-A231-8258CA825BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8719E373-2002-4D14-A231-8258CA825BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8719E373-2002-4D14-A231-8258CA825BB4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{67EBDB4D-154E-43A4-8210-8CC45D5128A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{67EBDB4D-154E-43A4-8210-8CC45D5128A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{67EBDB4D-154E-43A4-8210-8CC45D5128A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{67EBDB4D-154E-43A4-8210-8CC45D5128A3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ADD91E8F-70ED-4FDC-AF49-1DAB93C26BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ADD91E8F-70ED-4FDC-AF49-1DAB93C26BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADD91E8F-70ED-4FDC-AF49-1DAB93C26BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -75,6 +57,18 @@ Global
 		{8BBBFBB8-49E8-43CF-AE56-304C030FCB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BBBFBB8-49E8-43CF-AE56-304C030FCB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BBBFBB8-49E8-43CF-AE56-304C030FCB95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A78063B-C0C4-4FAD-BC68-EA8FF3F57E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A78063B-C0C4-4FAD-BC68-EA8FF3F57E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A78063B-C0C4-4FAD-BC68-EA8FF3F57E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A78063B-C0C4-4FAD-BC68-EA8FF3F57E46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A5E2DE1-E260-4C6E-B205-E608C3B5B6F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5E2DE1-E260-4C6E-B205-E608C3B5B6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5E2DE1-E260-4C6E-B205-E608C3B5B6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5E2DE1-E260-4C6E-B205-E608C3B5B6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD163B0-D2AA-4A59-9A57-AD06CF736E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD163B0-D2AA-4A59-9A57-AD06CF736E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD163B0-D2AA-4A59-9A57-AD06CF736E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD163B0-D2AA-4A59-9A57-AD06CF736E12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

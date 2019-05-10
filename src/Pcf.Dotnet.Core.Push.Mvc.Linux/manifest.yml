@@ -1,8 +1,0 @@
-﻿---
-applications:
--   name: pcf-dotnet-core-push-mvc-linux
-    stack: cflinuxfs3
-    buildpack: dotnet_core_buildpack
-    disk_quota: 512M
-    memory: 512M
-    instances: 1
