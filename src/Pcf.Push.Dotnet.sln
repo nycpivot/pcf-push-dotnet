@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Dotnet.Core.Push.Task", "Pcf.Dotnet.Core.Push.Task\Pcf.Dotnet.Core.Push.Task.csproj", "{3C2964B4-7FA6-4031-9A25-A5E6E6AC4FA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Push.Dotnet.Core.Task", "Pcf.Dotnet.Core.Push.Task\Pcf.Push.Dotnet.Core.Task.csproj", "{3C2964B4-7FA6-4031-9A25-A5E6E6AC4FA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pcf.Dotnet.Framework.Push.Mvc.Windows", "Pcf.Dotnet.Framework.Push.Mvc.Windows\Pcf.Dotnet.Framework.Push.Mvc.Windows.csproj", "{B7FC1986-BD49-40C9-9290-967860A6C0E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pcf.Push.Dotnet.Framework.Mvc.Windows", "Pcf.Dotnet.Framework.Push.Mvc.Windows\Pcf.Push.Dotnet.Framework.Mvc.Windows.csproj", "{B7FC1986-BD49-40C9-9290-967860A6C0E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pcf.Dotnet.Framework.Push.WebForms.Windows", "Pcf.Dotnet.Framework.Push.WebForms.Windows\Pcf.Dotnet.Framework.Push.WebForms.Windows.csproj", "{D0107972-F6F7-4B11-A0BB-687A9F25828A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pcf.Push.Dotnet.Framework.WebForms.Windows", "Pcf.Dotnet.Framework.Push.WebForms.Windows\Pcf.Push.Dotnet.Framework.WebForms.Windows.csproj", "{D0107972-F6F7-4B11-A0BB-687A9F25828A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcf.Dotnet.Core.Push.Mvvm.Docker.Linux", "Pcf.Dotnet.Core.Push.Mvvm.Docker.Linux\Pcf.Dotnet.Core.Push.Mvvm.Docker.Linux\Pcf.Dotnet.Core.Push.Mvvm.Docker.Linux.csproj", "{FE5B73CF-4574-427B-B429-732B77F32DC5}"
 EndProject
